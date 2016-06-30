@@ -1,0 +1,11 @@
+Z:\Downloads\Titanium-Web-Proxy-master\Titanium-Web-Proxy-master\Examples\Titanium.Web.Proxy.Examples.Basic\bin\Debug\Titanium.Web.Proxy.Examples.Basic.exe.config
+Z:\Downloads\Titanium-Web-Proxy-master\Titanium-Web-Proxy-master\Examples\Titanium.Web.Proxy.Examples.Basic\bin\Debug\makecert.exe
+Z:\Downloads\Titanium-Web-Proxy-master\Titanium-Web-Proxy-master\Examples\Titanium.Web.Proxy.Examples.Basic\bin\Debug\Titanium.Web.Proxy.Examples.Basic.exe
+Z:\Downloads\Titanium-Web-Proxy-master\Titanium-Web-Proxy-master\Examples\Titanium.Web.Proxy.Examples.Basic\bin\Debug\Titanium.Web.Proxy.Examples.Basic.pdb
+Z:\Downloads\Titanium-Web-Proxy-master\Titanium-Web-Proxy-master\Examples\Titanium.Web.Proxy.Examples.Basic\bin\Debug\Titanium.Web.Proxy.dll
+Z:\Downloads\Titanium-Web-Proxy-master\Titanium-Web-Proxy-master\Examples\Titanium.Web.Proxy.Examples.Basic\bin\Debug\Ionic.Zip.dll
+Z:\Downloads\Titanium-Web-Proxy-master\Titanium-Web-Proxy-master\Examples\Titanium.Web.Proxy.Examples.Basic\bin\Debug\Titanium.Web.Proxy.pdb
+Z:\Downloads\Titanium-Web-Proxy-master\Titanium-Web-Proxy-master\Examples\Titanium.Web.Proxy.Examples.Basic\bin\Debug\Ionic.Zip.xml
+Z:\Downloads\Titanium-Web-Proxy-master\Titanium-Web-Proxy-master\Examples\Titanium.Web.Proxy.Examples.Basic\obj\Debug\Titanium.Web.Proxy.Examples.Basic.csprojResolveAssemblyReference.cache
+Z:\Downloads\Titanium-Web-Proxy-master\Titanium-Web-Proxy-master\Examples\Titanium.Web.Proxy.Examples.Basic\obj\Debug\Titanium.Web.Proxy.Examples.Basic.exe
+Z:\Downloads\Titanium-Web-Proxy-master\Titanium-Web-Proxy-master\Examples\Titanium.Web.Proxy.Examples.Basic\obj\Debug\Titanium.Web.Proxy.Examples.Basic.pdb
