@@ -6,6 +6,8 @@ Here I will post some projects I have been working on.
 
 ## faceProxy
 
+credits for the proxy : https://github.com/justcoding121/Titanium-Web-Proxy
+
 1. it opens a proxy on target computer
 2. installs the root certificate to the computer.
 3. when user enters www.facebook.com it grabs his cookies.
