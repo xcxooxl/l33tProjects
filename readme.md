@@ -1,4 +1,4 @@
-## Synopsis
+## Welcome
 
 Welcome to my projects repo =] !
 Here I will post some projects I have been working on.
@@ -30,12 +30,6 @@ Hacking your computer...
 156250*5=781250 Hex = 0002625A0x
 
 781250*5=3906250 Hex = 000BEBC20x
-
-3906250*5=19531250 Hex = 003B9ACA0x
-
-19531250*5=97656250 Hex = 012A05F20x
-
-97656250*5=488281250 Hex = 05D21DBA0x
 
 and so on.. of course this doesn't realy hacks him.. just send messages.
 
