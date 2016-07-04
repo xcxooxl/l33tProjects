@@ -27,3 +27,6 @@ C:\Users\Dudi\Desktop\faceProxy\bin\Debug\Ionic.Zip.dll
 C:\Users\Dudi\Desktop\faceProxy\bin\Debug\Titanium.Web.Proxy.dll
 C:\Users\Dudi\Desktop\faceProxy\bin\Debug\Ionic.Zip.xml
 C:\Users\Dudi\Desktop\faceProxy\obj\Debug\faceProxy.csprojResolveAssemblyReference.cache
+C:\Users\Dudi\Desktop\l33t\l33tProjects\faceProxy\bin\Debug\faceProxy.exe.config
+C:\Users\Dudi\Desktop\l33t\l33tProjects\faceProxy\obj\Debug\faceProxy.exe
+C:\Users\Dudi\Desktop\l33t\l33tProjects\faceProxy\obj\Debug\faceProxy.pdb

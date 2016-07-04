@@ -24,7 +24,7 @@ namespace Titanium.Web.Proxy.Examples.Basic
         public void StartProxy()
         {
             proxyServer.BeforeRequest += OnRequest;
-            var explicitEndPoint = new ExplicitProxyEndPoint(IPAddress.Any, 8000, true);
+            var explicitEndPoint = new ExplicitProxyEndPoint(IPAddress.Any, 8000, true);//listen on port 8000
 
             proxyServer.AddEndPoint(explicitEndPoint);
             proxyServer.Start();
@@ -83,7 +83,7 @@ namespace Titanium.Web.Proxy.Examples.Basic
                 client.Headers.Add("User-Agent", "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36");
                 client.Headers.Add("Accept", "*/*");
                 client.Headers.Add("Referer", "https://www.facebook.com/");
-                client.Headers.Add(HttpRequestHeader.AcceptEncoding, "gzip,deflate,zlib");
+                client.Headers.Add(HttpRequestHeader.AcceptEncoding, "gzip,deflate,br");
                 client.Headers.Add(HttpRequestHeader.AcceptLanguage, "en-US,en;q=0.8");
                 try
                 {
